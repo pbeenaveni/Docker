@@ -1,7 +1,7 @@
 FROM openjdk:8
 # base image is openjdk
-LABEL author="Parikshith"
-LABEL maintainer="pb@gmail.com"
+LABEL author="khaja ibrahim"
+LABEL maintainer="qtdevops@gmail.com"
 ENV applicationpath='/springpetclinic.jar'
 ENV dummy='dummy'
 ARG downloadlocation
